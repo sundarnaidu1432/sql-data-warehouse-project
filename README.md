@@ -39,6 +39,4 @@ This project is licensed under the [MIT License][LICENSE]. You are free to use, 
 
 ## About me
 
-## License
-
 Hi there! I'm **Hema Sundar**, also known as **Sundar HMP Tech**.
