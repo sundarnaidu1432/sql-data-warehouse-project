@@ -22,7 +22,7 @@ create_date	DATE	The date and time when the customer record was created in the s
 
 ---
 
-3. gold.dim_products
+2. gold.dim_products
 Purpose: Provides information about the products and their attributes.
 Columns:
 Column Name	Data Type	Description
@@ -37,7 +37,10 @@ maintenance_required	NVARCHAR(50)	Indicates whether the product requires mainten
 cost	INT	The cost or base price of the product, measured in monetary units.
 product_line	NVARCHAR(50)	The specific product line or series to which the product belongs (e.g., Road, Mountain).
 start_date	DATE	The date when the product became available for sale or use, stored in
-4. gold.fact_sales
+
+---
+
+3. gold.fact_sales
 Purpose: Stores transactional sales data for analytical purposes.
 Columns:
 Column Name	Data Type	Description
