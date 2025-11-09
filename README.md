@@ -33,10 +33,6 @@ These insights empower stakeholders with keyiness metrics, enabling strategic de
 
 ---
 
-## License
-
-This project is licensed under the [MIT License][LICENSE]. You are free to use, modify, and share this project with proper attribution.
-
 ## About me
 
-Hi there! I'm **Hema Sundar**, also known as **Sundar HMP Tech**.
+Hi Amigos! I'm **Hema Sundar**, also known as **Sundar HMP Tech**.
